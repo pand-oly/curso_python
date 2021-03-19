@@ -1,0 +1,2 @@
+
+        vetorI.append(i)

@@ -1,3 +1,17 @@
+"""
+39. Escreva um programa que leia um número inteiro positivo n e em seguida impriman linhas do
+chamado Triangulo de Pascal:
+
+1
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
+1 5 10 10 5 1
+
+
+! Revisar depois que aprender melhor sobre 'def'
+"""
 
 def calcula_posicao(n, k):
     if k == 0 or k == n:
