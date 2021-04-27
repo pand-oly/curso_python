@@ -1,0 +1,31 @@
+O Scrum (pron. [skrʌm]) é um framework de gerenciamento de projetos, da organização ao
+desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível,
+através de várias técnicas, utilizado desde o início de 1990 e que atualmente é utilizado
+em mais de 60% dos projetos ágeis em todo o mundo.
+
+Este framework não é um processo linear, em vez disso, é um conjunto de conceitos e técnicas
+dentro do qual você pode empregar vários outros processos ou técnicas. Analisando a eficácia
+relativa das práticas de gerenciamento e desenvolvimento, de modo que você possa melhorá-las.
+Este também não é um processo prescribente, ou seja, não descreve o que fazer em cada situação,
+pois em trabalhos complexos é impossível predizer tudo o que irá ocorrer. É um conjunto de
+valores, princípios e práticas que fornecem a base para que a sua organização adicione suas
+práticas particulares de engenharia e gestão e que sejam relevantes para a realidade da sua
+empresa. O resultado será uma versão de Scrum que é exclusivamente sua.[3]
+
+Scrum possui seu foco no gerenciamento e projeto da organização onde é difícil planear à frente.
+Mecanismos do Controle de Processo Empírico, onde ciclos de feedback constituem o núcleo
+datécnica de gerenciamento que são usadas em oposição ao tradicional gerenciamento de comando
+e controle.[4] É uma forma de planear e gerenciar projetos trazendo a autoridade da tomada de
+decisão a níveis de propriedade de operação e certeza.
+
+Apesar da palavra não ser um acrônimo, algumas empresas que implementam o processo a soletram
+com letras maiúsculas como SCRUM. Isto pode ser devido aos primeiros artigos de Ken Schwaber,
+que capitalizava SCRUM no título.
+
+Apesar de ser criado para gerenciamento de projetos de software, também pode ser utilizado em
+equipes de manutenção de software ou como uma abordagem geral de gerenciamento de
+projetos/programas.
+
+Atualmente, as técnicas de DevOps são utilizados por programadores no desenvolvimento de
+software em conjunto com técnicas de gestão e desenvolvimento ágil de software, como o
+Scrum.

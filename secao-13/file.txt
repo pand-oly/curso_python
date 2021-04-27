@@ -1,0 +1,3 @@
+maçã 9.9 
+banana 4.5 
+leite 3.4 

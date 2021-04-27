@@ -34,5 +34,5 @@ def pascalLine(linhas):
 
     return triangulo
 
-
-print(pascalLine(5))
+for l in range(0, 6):
+    print(pascalLine(5)[l])
